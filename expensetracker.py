@@ -108,4 +108,4 @@ def red(text):
     return f"\033[91m{text}\033[0m"
 
 if __name__ == '__main__':
-    main()
+    main() 
