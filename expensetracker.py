@@ -6,7 +6,7 @@ def main():
     print(f"Running Expense Tracker!")
     expense_file_path = "expenses.csv"
     gross_monthly_income = 0
-    budget = 0.8 * gross_monthly_income
+    budget = 0.9 * gross_monthly_income
 
     # Get input for expense.
     expense = get_user_expense()
